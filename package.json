@@ -1,0 +1,15 @@
+{
+  "name": "nodeassessment",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "Naveena",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
